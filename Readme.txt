@@ -12,3 +12,8 @@ pip install selenium
 pip install selenium
 pip install pyautogui opencv-python
 pip install pygetwindow
+
+
+https://googlechromelabs.github.io/chrome-for-testing/#stable
+
+
